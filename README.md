@@ -62,10 +62,6 @@ Video Demo of Application:
 
 
 
-https://github.com/Dinh282/e-commerce-back-end/assets/112836220/cb70329a-5b53-4c60-a5bf-f4183cbb5cdc
-
-
-
 
  Screenshots of the Insomnia:
 
