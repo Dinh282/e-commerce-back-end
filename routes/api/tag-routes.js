@@ -51,11 +51,11 @@ router.put('/:id', async (req, res) => {
     });
 
     if (!tagData[0]) {
-      res.status(404).json({ message: 'No category exists with that id!'});
+      res.status(404).json({ message: 'No tag exists with that id!'});
       return
     }
 
-    res.status(299).json({message: 'Category was updated successfully!'})
+    res.status(299).json({message: 'Tag was updated successfully!'})
   } catch (err) {
     res.status(500).json(err);
   }
