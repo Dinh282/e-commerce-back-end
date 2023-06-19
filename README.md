@@ -89,7 +89,7 @@ Delete Route For Tag:
 
 3. https://www.youtube.com/watch?v=670f71LTWpM (Help with async-await)
 
-8. Instructor, TAs, and classmates.
+4. Instructor, TAs, and classmates.
 
 ## Questions
 Feel free to contact me at nguyen_dinh282@yahoo.com for additional information.  
